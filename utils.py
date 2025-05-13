@@ -1,5 +1,6 @@
 """this module contains basic math functions"""
 
+
 # przykladowe funkcje utils . py
 def add(a: int, b: int) -> int:
     """this function adds two numbers"""
